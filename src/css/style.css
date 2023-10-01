@@ -32,6 +32,9 @@ a {
 .nav-list .home {
   margin-right: 25px;
   position: relative;
+  height: 50px;
+  display: flex;
+  align-items: center;
 }
 
 .home .home-line {
@@ -70,6 +73,9 @@ a {
 .nav-list .pages {
   margin-right: 25px;
   position: relative;
+  height: 50px;
+  display: flex;
+  align-items: center;
 }
 
 .pages .pages-line {
@@ -107,6 +113,9 @@ a {
 .nav-list .forum {
   margin-right: 25px;
   position: relative;
+  height: 50px;
+  display: flex;
+  align-items: center;
 }
 
 .forum .forum-line {
@@ -144,6 +153,9 @@ a {
 .nav-list .portfolio {
   margin-right: 25px;
   position: relative;
+  height: 50px;
+  display: flex;
+  align-items: center;
 }
 
 .portfolio .portfolio-line {
@@ -187,6 +199,9 @@ a {
 .nav-list .blog {
   margin-right: 25px;
   position: relative;
+  height: 50px;
+  display: flex;
+  align-items: center;
 }
 
 .blog .blog-line {
@@ -225,6 +240,9 @@ a {
 .nav-list .shop {
   margin-right: 25px;
   position: relative;
+  height: 50px;
+  display: flex;
+  align-items: center;
 }
 
 .shop .shop-line {
@@ -264,6 +282,9 @@ a {
 .nav-list .elements {
   margin-right: 25px;
   position: relative;
+  height: 50px;
+  display: flex;
+  align-items: center;
 }
 
 .elements .element-line {
